@@ -1,0 +1,20 @@
+li {
+    margin: 0;
+    padding: 15px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    border: 1px solid gray;;
+    border-radius: 30px;
+    gap: 10px;
+}
+
+.todo__input__text {
+    width: 100%;
+    border: none;
+}
+
+.todo__comp {
+ background-color: gray;   
+}
+

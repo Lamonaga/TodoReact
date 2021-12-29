@@ -1,0 +1,7 @@
+.input {
+    width: 100%;
+}
+
+input:focus-visible {
+    outline: none;
+}
